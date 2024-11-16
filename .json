@@ -1,0 +1,16 @@
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:us-west-2:370059314078:repository/getletter",
+        "registryId": "370059314078",
+        "repositoryName": "getletter",
+        "repositoryUri": "370059314078.dkr.ecr.us-west-2.amazonaws.com/getletter",
+        "createdAt": "2024-11-16T09:59:12.492000+00:00",
+        "imageTagMutability": "MUTABLE",
+        "imageScanningConfiguration": {
+            "scanOnPush": true
+        },
+        "encryptionConfiguration": {
+            "encryptionType": "AES256"
+        }
+    }
+}

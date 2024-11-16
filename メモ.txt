@@ -1,0 +1,5 @@
+sam deploy \
+	--stack-name getletter \
+	--s3-bucket labstack-300889e2-fbe5-4243-b0b6-b-generatedbucket-2f8e1inxq5fg \
+	--capabilities CAPABILITY_NAMED_IAM CAPABILITY_AUTO_EXPAND \
+	--image-repository 370059314078.dkr.ecr.us-west-2.amazonaws.com/getletter
